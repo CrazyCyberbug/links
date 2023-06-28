@@ -1,0 +1,12 @@
+paper links -
+[27-06-2023 15:15] : https://www.mdpi.com/2218-1997/8/1/30
+[27-06-2023 16:50] : https://www.sciencedirect.com/science/article/pii/S009457652100415X
+[27-06-2023 16:51] : https://www.mdpi.com/2227-9717/10/2/262
+[27-06-2023 21:21] : https://github.com/stardust-r/deep-learning-space-weather-forecasting -- git hub code
+
+references links by sai mallesh
+
+[26-06-2023 18:05] Sai Mallesh: https://www.researchgate.net/publication/271729675_Impact_of_Solar_Flux_Modeling_on_Satellite_Lifetime_Predictions
+[26-06-2023 18:06] Sai Mallesh: https://iopscience.iop.org/article/10.1088/1742-6596/1523/1/012010/pdf
+[26-06-2023 18:06] Sai Mallesh: https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/265/SDC8-paper265.pdf
+[26-06-2023 18:07] Sai Mallesh: https://m.youtube.com/watch?v=AVO42b7QLNM
