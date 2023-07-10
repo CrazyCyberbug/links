@@ -12,3 +12,9 @@ references links by sai mallesh
 [26-06-2023 18:07] Sai Mallesh: https://m.youtube.com/watch?v=AVO42b7QLNM
 
 https://drive.google.com/drive/folders/187ot4o4liuIv82or0fS7_LSm6e-j5ZCz
+
+
+https://blogs.oracle.com/ai-and-datascience/post/decomposition-based-approaches-to-time-series-forecasting
+
+orbit propogation
+https://github.com/alfonsogonzalez/AWP/tree/main/src/foom004_orbit_propagation
